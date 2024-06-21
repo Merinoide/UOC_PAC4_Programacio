@@ -1,4 +1,4 @@
-# Anàlsisi de la base de dades *NICS*
+# Anàlisi de la base de dades *NICS*
 
 ## Explicació general
 
