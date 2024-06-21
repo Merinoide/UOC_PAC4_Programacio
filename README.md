@@ -34,7 +34,7 @@ El projecte utilitza les següents llibreries que executant el *requeriment.txt*
 ```
 git clone https://github.com/Merinoide/UOC_PAC4_Programacio.git
 
-cd Projecte
+cd UOC_PAC4_Programacio
 
 pip install -r requeriments.txt
 
